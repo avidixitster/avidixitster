@@ -1,0 +1,10 @@
+03-08-2021 16:00:46	This log contains information about the import schema operation into project 'Database1' on computer 'DESKTOP-7QA9SFK' by user 'RSI'.
+03-08-2021 16:00:46	Deserializing model
+03-08-2021 16:00:48	Resolving model
+03-08-2021 16:00:49	Visiting imported model for types
+03-08-2021 16:00:49	Scanning project for duplicate elements
+03-08-2021 16:00:50	Finished duplicate element processing
+03-08-2021 16:00:53	Processing extra files
+03-08-2021 16:00:53	Finished importing Data-tier Application file.
+03-08-2021 16:00:53	A summary of the import was saved to the following location: C:\Users\RSI\source\repos\Database1\Database1\Import Schema Logs\Database1_20210803103046.log
+03-08-2021 16:00:53	Click Finish to continue...
